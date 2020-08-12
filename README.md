@@ -50,3 +50,13 @@ That being said, we've included a lot of the detailed mathematics for those of y
 
 
 
+
+
+
+If you haven't used Numpy, Pandas, or Matplotlib before, please take our [Intro to Data Analysis ](https://classroom.udacity.com/courses/ud170)course. These are the main tools for working with and visualizing data in Python, so you'll need some experience with them.
+
+
+
+
+
+
