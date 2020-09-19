@@ -18,7 +18,7 @@
 2. [Dog Breed Classifier](https://github.com/nancyalaswad90/Dog-Breed-Classifier)
 3. Generate TV Scripts
 4. Generate Faces
-5. Deploy a Sentiment Analysis Model
+5. [Deploy a Sentiment Analysis Model](https://github.com/nancyalaswad90/Deploy-a-Sentiment-Analysis-Model)
 
 
 
