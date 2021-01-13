@@ -7,7 +7,7 @@
 #  💡 [Deep Learning Nanodegree Porjects ](https://confirm.udacity.com/DRMNRNQL)
 
 
->   ![Dl](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/95337299-03a7-4cf7-b226-cec89755a0b3.svg
+>   ![Dl](https://user-images.githubusercontent.com/36210723/104475153-6e298600-55c7-11eb-8f7d-dcd0eb1d8799.png)
 
 
 ## Here are the five projects, listed for convenience:
