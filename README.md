@@ -9,6 +9,7 @@
 
 >   ![Dl](https://user-images.githubusercontent.com/36210723/104475153-6e298600-55c7-11eb-8f7d-dcd0eb1d8799.png)
 
+> ![Deep Learning](https://user-images.githubusercontent.com/36210723/154186720-5631dc49-7d61-4b4b-b139-1388bb47cbd5.png)
 
 ## Here are the five projects, listed for convenience:
 
